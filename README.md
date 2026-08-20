@@ -202,8 +202,8 @@ This project intentionally demonstrates secure coding habits that matter in DevO
 
 ## Author
 
-**[Your Name]**
+**[Ferdous Ul Karim Riaz]**
 System/Infrastructure Engineer → Junior DevOps Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ferdous-riaz)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/FerdousRIAZzz)
