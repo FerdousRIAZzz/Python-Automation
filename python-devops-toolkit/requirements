@@ -1,0 +1,25 @@
+# =============================================================================
+# requirements.txt
+# PURPOSE: Lists all external Python libraries this project needs.
+#          Install everything at once with: pip install -r requirements.txt
+#
+# Python's built-in libraries (socket, ssl, json, os, datetime, csv) need
+# NO installation — they come with Python automatically.
+# Only third-party libraries are listed here.
+# =============================================================================
+
+# Used in: monitoring/system_monitor.py
+# What it does: Reads real-time CPU, RAM, Disk, and Network stats from the OS.
+# Cross-platform — works on Linux, Windows, and macOS.
+psutil>=5.9.0
+
+# Used in: git_automation/github_manager.py
+# What it does: Makes HTTP requests to the GitHub API (and any REST API).
+# The most popular Python library for API calls — every DevOps engineer uses this.
+requests>=2.31.0
+
+# Used in: cloud/cloud_resource_audit.py
+# What it does: The official AWS SDK for Python. Lets you talk to every AWS service
+# (EC2, S3, IAM, RDS, Lambda, etc.) from Python code.
+# Install AWS CLI separately: https://aws.amazon.com/cli/
+boto3>=1.34.0
